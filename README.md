@@ -5,7 +5,7 @@ At CodSoft, we understand the importance of practical experience for aspiring te
 Our team consists of industry experts who are dedicated to equipping interns with the knowledge and skills needed to succeed in their careers. We foster an inclusive and supportive environment that encourages learning, growth, and creativity.
 </p> <br>
 
-<h1>Tasks</h1> <br>'
+<h1>Tasks</h1> <br>
 
 <h2>TITANIC SURVIVAL PREDICTION</h2> <br>
 <p>passenger on the Titanic survived or not. This is a classic beginner
