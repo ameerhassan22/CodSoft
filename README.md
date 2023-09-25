@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7494d8c5d548321a0f43b3714130e06d26560a8e4fb8344218b4c1fd6942b854
-size 4350
+# CodSoft
+<h2>ABOUT</h2> <br>
+<p>
+We believe in the power of leadership and its ability to drivepositive change.
+That's why we provide platforms and resourcesfor our community members to develop their leadership skills.Through mentorship programs, workshops,
+and collaborativeprojects, we empower individuals to take on leadership rolesand make a difference in their respective fields.
+</p>
